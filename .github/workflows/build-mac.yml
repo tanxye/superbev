@@ -1,0 +1,47 @@
+name: Build macOS App
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build-mac:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pygame pyinstaller pillow
+
+      - name: Build macOS app
+        run: |
+          pyinstaller --onefile --windowed \
+            --add-data "bgm.mp3:." \
+            --add-data "click.mp3:." \
+            --add-data "Night_Blooming_Canopy.mp3:." \
+            --add-data "logo.ico:." \
+            --add-data "superbev_logo.png:." \
+            --add-data "graphics.py:." \
+            --hidden-import pygame \
+            --hidden-import pygame.mixer \
+            --hidden-import pygame.mixer_music \
+            --hidden-import pygame.pkgdata \
+            --collect-all pygame \
+            --exclude-module numpy \
+            --exclude-module pytest \
+            --name superbev \
+            main.py
+
+      - name: Upload macOS build
+        uses: actions/upload-artifact@v4
+        with:
+          name: superbev-macos
+          path: dist/superbev
