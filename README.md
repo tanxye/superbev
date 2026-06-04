@@ -2,9 +2,9 @@
 
 Watch gameplay: https://youtu.be/18WC9R4yHS0
 
--> Click the green Code button on the right
--> Download the ZIP folder and choose extract all
--> Double click on run_game.bat to play the game.
+Click the green Code button on the right
+Download the ZIP folder and choose extract all
+Double click on run_game.bat to play the game.
 
 Welcome to **SUPERtree BEVerages!**, an interactive desktop mini-game built with Python and Tkinter. This game was created as part of the **CIP 2026** course to celebrate Singapore's culture, iconic landmarks, and local flavors!
 
