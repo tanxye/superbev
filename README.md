@@ -4,7 +4,7 @@ Watch gameplay: https://youtu.be/kQygGFkp2wU
 
 ![Game Screenshot](superbev_screenshot.png)
 
-1) Click the green Code button on the right  
+1) Click the green Code button on the top right corner  
 2) Download the ZIP folder and choose extract all  
 3) Double click on run_game.bat to play the game.
 
