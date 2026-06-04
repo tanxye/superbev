@@ -37,7 +37,7 @@ In total, this project took **4 to 5 days** of continuous iteration from its ini
 
 Because this desktop version is built entirely on standard Python libraries, it is completely self-contained. Anyone can download and run it instantly without configuring external environment wrappers.
 
-Download the folder. Double click on run_game.bat to play the game.
+Click the green Code button on the right then download the ZIP folder. Double click on run_game.bat to play the game.
 
 ### Prerequisites
 Make sure you have **Python 3** installed on your system.
