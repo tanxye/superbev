@@ -1,6 +1,6 @@
 # SUPERtree BEVerages! (Superbev)
 
-Watch gameplay: https://youtu.be/EUnT4pvgYuk
+Watch gameplay: https://youtu.be/kQygGFkp2wU
 
 ![Game Screenshot](superbev_screenshot.png)
 
