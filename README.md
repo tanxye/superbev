@@ -62,3 +62,17 @@ Gardens by the Bay frequently hosts vibrant pop-up stalls under its towering Sup
 * **The Light Show Challenge:** Programming the mathematical animations for the Supertree Light Show was the most complex part of the project, taking **3 full days of dedicated coding** to perfect the Bezier curves, overlapping sine waves, and twinkling LED coordinate matrices.
 
 In total, this project took **4 to 5 days** of continuous iteration from its initial whiteboard concept to this final, polished copy.
+
+### Stanford Code In Place IDE Gameplay urls
+
+**Not Full Game**  
+
+https://codeinplace.stanford.edu/cip6/share/94DY9fjTUumNTA1xWhIk  
+
+**Mini Singapore Advert (First CIP Graphics Project)**  
+
+https://codeinplace.stanford.edu/public/share/W7iaN6DSsB8eN9GmxwJM  
+
+
+
+
