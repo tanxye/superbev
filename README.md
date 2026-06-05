@@ -10,7 +10,7 @@ Watch gameplay: https://youtu.be/kQygGFkp2wU
 1. **Welcome Screen:** Click **PLAY** to begin your shift at the Gardens.
 2. **Review Instructions:** You must answer the Python fundamentals questions correctly to secure your sales in order to activate the lightshow/garden rhapsody.
 3. **Run the Shop:** Different customers will request random drinks. Select option **A** or **B** to solve the Python concept.
-   * **Correct Answer:** The drink is sold! You earn the cash value towards your target.
+   * **Correct Answer:** The drink is sold! You earn the cash value towards your sales target.
    * **Incorrect Answer:** The customer leaves, and you miss out on the sale.
 4. **The Ultimate Goal:** Get a flawless streak, earn **$45 or more**, and sit back to watch the dynamic Supertree Light Show celebrate your victory!
 
