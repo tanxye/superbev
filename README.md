@@ -48,7 +48,7 @@ Watch gameplay: https://youtu.be/kQygGFkp2wU
 
 ## The Concept & Creation Story
 
-As a Singaporean student in the CIP 2026 course, I wanted to build a graphics-based game that uniquely represents home.
+As a Singaporean student given a chance to be enrolled in the Stanford CIP 2026 course, I wanted to build a graphics-based game that uniquely represents home.
 
 ### The Inspiration
 
