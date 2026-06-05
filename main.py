@@ -138,7 +138,7 @@ def play_lightshow_music():
 def play_click():
     if _mixer_ok and _click_sound: _click_sound.play()
 
-# [Game/Drawing functions follow your original logic...]
+# [Game/Drawing functions]
 def draw_register(x, y):
     w, h = 160, 100
     rect(x, y, x + w, y + h, "#333333")
