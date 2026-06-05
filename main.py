@@ -93,7 +93,7 @@ def sleep(seconds):
         canvas.update()
         time.sleep(0.02)
 
-# [Shape functions and Audio functions remain the same as your original code]
+# [Shape functions and Audio functions]
 def rect(x1, y1, x2, y2, color="black"): return canvas.create_rectangle(int(x1), int(y1), int(x2), int(y2), color)
 def oval(x1, y1, x2, y2, color="black"): return canvas.create_oval(int(x1), int(y1), int(x2), int(y2), color)
 def line(x1, y1, x2, y2, color="black"): return canvas.create_line(int(x1), int(y1), int(x2), int(y2), color)
