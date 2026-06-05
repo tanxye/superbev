@@ -19,45 +19,30 @@ Watch gameplay: https://youtu.be/kQygGFkp2wU
 
 ### Windows
 
-> **Prerequisites:** Make sure you have [Python 3](https://www.python.org/downloads/) installed.
+1. Click the green **Code** button → **Download ZIP** → **Extract All**
+2. Open the extracted folder
+3. Double-click **run_game.bat** to play
 
-1. Click the green **Code** button on the top right corner
-2. Click **Download ZIP** and choose **Extract All**
-3. Open the extracted folder
-4. Double-click **run_game.bat** to play
+> **Windows safety note:** Windows may show a SmartScreen warning since the file isn't from a signed publisher — this is normal for any student project. Click **"More info"** then **"Run anyway"**. You can open `run_game.bat` in Notepad anytime to verify it simply installs Python libraries and runs the game.
 
-That's it — no additional setup needed!
+> **No Python?** The bat file will detect this and open the Python download page automatically. When installing Python, make sure to tick **"Add Python to PATH"** before clicking Install. Then double-click `run_game.bat` again.
 
 ---
 
 ### macOS
 
-> **Prerequisites:** Make sure you have [Python 3](https://www.python.org/downloads/) installed.
-
-**Step 1 — Install required libraries**
-
-Open **Terminal** (search for it in Spotlight with ⌘ + Space) and run:
-
+1. Click the green **Code** button → **Download ZIP** → extract the folder
+2. Open **Terminal** (press ⌘ + Space, type Terminal, press Enter)
+3. Type `cd ` (with a space after), then drag the extracted **superbev-main** folder from Finder into the Terminal window — it fills the path automatically. Press Enter.
+4. Run the game:
 ```bash
-pip3 install pygame pillow
+   bash run_game.sh
 ```
+   This automatically installs the required libraries and launches the game.
 
-**Step 2 — Download the game**
+> **No Python?** The script will detect this and open the Python download page automatically. After installing, run `bash run_game.sh` again.
 
-1. Click the green **Code** button on the top right corner
-2. Click **Download ZIP** and choose to extract it
-3. Note where the extracted **superbev** folder is saved (e.g. your Downloads folder)
-
-**Step 3 — Run the game**
-
-In Terminal, navigate to the folder and run:
-
-```bash
-cd ~/Downloads/superbev-main
-python3 main.py
-```
-
-> **Tip:** If you're unsure of the path, open the extracted superbev folder in Finder, then drag the folder icon into your Terminal window after typing `cd ` — it will fill in the path automatically. Then press Enter.
+> **macOS security note:** If macOS says it cannot verify the developer, go to **System Settings → Privacy & Security** and click **"Allow Anyway"** next to the blocked file.
 
 ---
 
