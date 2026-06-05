@@ -21,7 +21,7 @@ Watch gameplay: https://youtu.be/kQygGFkp2wU
 
 1. Click the green **Code** button → **Download ZIP** → **Extract All**
 2. Open the extracted folder
-3. Double-click **run_game.bat** to play
+3. Double-click **run_game.bat** to play (NOT the run_game.sh file but the run_game Windows Batch File)
 
 > **Windows safety note:** Windows may show a SmartScreen warning since the file isn't from a signed publisher — this is normal for any student project. Click **"More info"** then **"Run anyway"**. You can open `run_game.bat` in Notepad anytime to verify it simply installs Python libraries and runs the game.
 
