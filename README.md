@@ -7,7 +7,7 @@ Watch gameplay: https://youtu.be/kQygGFkp2wU
 ## How to Play
 
 1. **Welcome Screen:** Click **PLAY** to begin your shift at the Gardens.
-2. **Review Instructions:** Learn your targets! You must answer the Python fundamentals questions correctly to secure your sales.
+2. **Review Instructions:** You must answer the Python fundamentals questions correctly to secure your sales in order to activate the lightshow/garden rhapsody.
 3. **Run the Shop:** Different customers will request random drinks. Select option **A** or **B** to solve the Python concept.
    * **Correct Answer:** The drink is sold! You earn the cash value towards your target.
    * **Incorrect Answer:** The customer leaves, and you miss out on the sale.
